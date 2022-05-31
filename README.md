@@ -8,3 +8,4 @@ How to Create and Design a GitHub Profile README
 * [A template to make good README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 * [Badges](https://shields.io/)
+* [Blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow)
