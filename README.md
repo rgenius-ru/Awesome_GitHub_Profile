@@ -1,4 +1,4 @@
-# Awesome_GitHub_Profile
+# Awesome GitHub Profile
 How to Create and Design a GitHub Profile README
 
 # Links
